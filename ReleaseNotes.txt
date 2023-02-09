@@ -1,0 +1,18 @@
+Chemin d'accès relatif au fichier : 
+	Pour l'éxécutable : projects\VS2019\bin\x64\Debug
+	Pour le fichier vs : E3FI_2021_2022_Mathématiques3D_Raylib_Projet de base\examples\core\core_basic_window.cpp
+
+Remarques : 
+
+	Nous n'avons pas de remarque particulière sur le projet. Dans l'ensemble il nous a vraiment plu. 
+	C'était très interessant de voir comment la modélisation 3D fonctionnait, comment l'univers dans lequel on baigne en jouant aux jeux vidéos est réalisé, quels sont les mathématiques appliquées fondamentales qui régissent le milieu. 
+	Pour ce qui est du projet en lui même, il n'y a pas de limitations ni de bugs connus à l'heure actuelles malgré les multiples tests. Vous nous direz tant mieux et c'est vrai. 
+	Nous avons remarqué cependant une chose. Lorsqu'on lance le programme, si nous ne gardons pas la fenêtre ouverte constamment, si par malheur elle se réduit et que vous la rouvrez ensuite, il arrive que la balle disparaisse durant ce laps de temps.
+	Nous avons essayé de comprendre et d'expliquer le phénomène, sans grand succès, car nous avions beau fixer notre écran pendant de longues minutes la balle rebondissait toujours parfaitement. 
+	
+	Nous avons essayé de lisser un maximum le code avec des commentaires afin de vous faciliter la lecture, même si celle-ci ne reste pas évidente compte tenu de la densité et de la complexité du projet. 
+	En ce qui concerne les voies d'amélioration, il faudrait concevoir des collisions pour tous les types d'objets dorénavant, mais là ne réside pas la consigne que vous nous aviez donné. 
+
+	En terme de répartition des tâches dans le projet, je me suis majoriatairement penché sur les tâches d'implémentation et mon binôme Hugo, m'a aidé et soutenu dans toutes les tâches théoriques de compréhension permettant de réaliser le projet.
+
+

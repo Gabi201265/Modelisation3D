@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>D:\Unity3D Projects\ESIEE\E3FIC_2020_2021_Mathématiques3D_Raylib_RATTRAPAGE\projects\VS2019\bin\x64\Debug.DLL\raylib.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\Unity3D Projects\ESIEE\E3FIC_2020_2021_Mathématiques3D_Raylib_RATTRAPAGE\projects\VS2019\bin\x64\Debug.DLL\core_basic_window_cpp.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
